@@ -1,0 +1,23 @@
+Time : 14:33:06
+Unhandled Exception. <br />SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'periodeLibelle' cannot be null<br /> You can find the error back in the log.
+Time : 15:43:42
+Unhandled Exception. <br />SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bienLibelle' in 'field list'<br /> You can find the error back in the log.
+Time : 17:16:00
+Unhandled Exception. <br />SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':id
+                    WHERE periode.periodeActif = 1' at line 3<br /> You can find the error back in the log.
+Time : 17:25:26
+Unhandled Exception. <br />SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens<br /> You can find the error back in the log.
+Time : 17:46:49
+Unhandled Exception. <br />SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bienTarifMontant' cannot be null<br /> You can find the error back in the log.
+Time : 19:36:28
+Unhandled Exception. <br />SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bienIdActive' in 'where clause'<br /> You can find the error back in the log.
+Time : 19:36:43
+Unhandled Exception. <br />SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bienIdActif' in 'where clause'<br /> You can find the error back in the log.
+Time : 19:36:58
+Unhandled Exception. <br />SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bienName' in 'order clause'<br /> You can find the error back in the log.
+Time : 22:09:43
+Unhandled Exception. <br />SQLSTATE[42S22]: Column not found: 1054 Unknown column 'locataireTel' in 'field list'<br /> You can find the error back in the log.
+Time : 22:11:12
+Unhandled Exception. <br />SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bienId' in 'field list'<br /> You can find the error back in the log.
+Time : 23:34:12
+Unhandled Exception. <br />SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'<br /> You can find the error back in the log.
